@@ -10,5 +10,5 @@ This repository contains a comprehensive business plan project focusing on a hyp
 **Technology**</br> What technology would be used
 **Decision** Which stategy to chose</br>
 **Terms** Terms for preferred stock of Gassed Up</br>
-------
-*This was used as a term project to apply our knowlege and understading of business development, research, finance, and implementation. This is a very exstensive and lengthy project.*
+
+*This was used as a term project to apply our knowlege and understading of business development, research, finance, and implementation. This is a very exstensive and lengthy project. This is not a real company.*
