@@ -8,7 +8,7 @@ This repository contains a comprehensive business plan project focusing on a hyp
 **Service Explination:** Service Description</br>
 **Alternative Strategies**</br> 
 **Technology:** What technology would be used</br>
-**Decision:** Which stategy to chose</br>
+**Decision:** Which strategy to chose</br>
 **Terms:** Terms for preferred stock of Gassed Up</br>
 
 *This was used as a term project to apply our knowlege and understading of business development, research, finance, and implementation. This is a very exstensive and lengthy project. This is not a real company.*
